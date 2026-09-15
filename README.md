@@ -15,7 +15,7 @@ I build applications with clear interfaces and dependable foundations.
 My work spans full-stack web development and desktop software, with a focus on
 readable design, reliable data handling, and tests that cover the details.
 
-[**Visit my portfolio**](https://www.limzichao.com/) &nbsp; / &nbsp; [Personal GitHub](https://github.com/mysterious-joker)
+[**Visit my portfolio**](https://www.limzichao.com/)
 
 <br>
 

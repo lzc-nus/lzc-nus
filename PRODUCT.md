@@ -32,7 +32,6 @@ Plutus must be identified as a NUS Orbital Apollo-level project.
 - Plutus: financial intelligence project by Two Sicilies; Next.js, FastAPI, PostgreSQL.
 - Green Chonk: JavaFX task companion with persistent storage, testing, and CI.
 - Portfolio: https://www.limzichao.com/
-- Personal GitHub: https://github.com/mysterious-joker
 
 ## Product Principles
 
