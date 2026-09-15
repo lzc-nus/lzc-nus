@@ -6,7 +6,7 @@ I build applications and work on the engineering behind them: clear interfaces,
 reliable storage, useful tests, and repeatable releases. This account holds my
 coursework and projects at NUS.
 
-[Portfolio](https://www.limzichao.com/) · [Personal GitHub](https://github.com/mysterious-joker)
+[Portfolio](https://www.limzichao.com/)
 
 ---
 
