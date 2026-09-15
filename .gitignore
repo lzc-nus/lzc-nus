@@ -1,0 +1,5 @@
+.impeccable/review/
+.impeccable/mocks/
+.impeccable/config.local.json
+.playwright-cli/
+output/playwright/

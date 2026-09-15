@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="150" viewBox="0 0 960 150" role="img" aria-labelledby="title desc">
+  <title id="title">Green Chonk</title>
+  <desc id="desc">Green Chonk project header in pale sage with a geometric conversation symbol.</desc>
+  <rect width="960" height="150" fill="#e4eadb"/>
+  <text x="40" y="99" fill="#193e34" font-family="Baskerville, 'Palatino Linotype', Georgia, serif" font-size="66" letter-spacing="-1">Green Chonk</text>
+  <g fill="none" stroke="#466449" stroke-width="2">
+    <path d="M800 37h94v62h-50l-24 18V99h-20z"/>
+    <path d="m820 68 12 12 22-25M866 63h13M866 77h13"/>
+  </g>
+</svg>

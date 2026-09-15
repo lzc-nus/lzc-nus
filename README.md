@@ -1,57 +1,69 @@
-# Lim Zi Chao
+<!--
+THESIS: A concise editorial portfolio, with engineering evidence leading the pitch.
+OWN-WORLD: Forest, ivory, and muted gold; large serif lettering and precise geometry.
+STORY: Meet Lim Zi Chao, explore Plutus and Green Chonk, then inspect the source.
+FIRST VIEWPORT: Full-width masthead, short introduction, portfolio link, lead project.
+FORM: User-approved restrained editorial direction; code-first; seed f60998b8.
+FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance
+-->
 
-### Computer Science student at the National University of Singapore
+![Lim Zi Chao — Software, thoughtfully built.](assets/masthead.svg)
 
-I build applications and work on the engineering behind them: clear interfaces,
-reliable storage, useful tests, and repeatable releases. This account holds my
-coursework and projects at NUS.
+**Computer Science at the National University of Singapore.**
 
-[Portfolio](https://www.limzichao.com/) · [Personal GitHub](https://github.com/mysterious-joker)
+I build applications with clear interfaces and dependable foundations.
+My work spans full-stack web development and desktop software, with a focus on
+readable design, reliable data handling, and tests that cover the details.
+
+[**Visit my portfolio**](https://www.limzichao.com/) &nbsp; / &nbsp; [Personal GitHub](https://github.com/mysterious-joker)
+
+<br>
+
+## Selected work
+
+[![Plutus](assets/plutus.svg)](https://github.com/lzc-nus/Plutus)
+
+**NUS Orbital · Apollo-level project** &nbsp; · &nbsp; Team Two Sicilies
+
+A financial intelligence application bringing wealth tracking, portfolio
+visibility, and transaction workflows into one project. Built with a Next.js
+frontend, a FastAPI backend, and PostgreSQL.
+
+<sub>TypeScript &nbsp; / &nbsp; React &amp; Next.js &nbsp; / &nbsp; Python &amp; FastAPI &nbsp; / &nbsp; PostgreSQL</sub>
+
+[**Explore the project**](https://github.com/lzc-nus/Plutus#readme) &nbsp; · &nbsp; [Source code](https://github.com/lzc-nus/Plutus)
+
+<br>
+
+[![Green Chonk](assets/green-chonk.svg)](https://github.com/lzc-nus/ip)
+
+**CS2103T · Individual project**
+
+A JavaFX task companion that pairs a chat interface with keyboard-driven
+commands. Organize todos, deadlines, and events; search, edit, and see what
+is scheduled for a date.
+
+Separate command, domain, and storage responsibilities keep the code navigable.
+Atomic saves protect task data, while JUnit, Checkstyle, coverage gates, and
+cross-platform CI help catch regressions.
+
+<sub>Java &nbsp; / &nbsp; JavaFX &nbsp; / &nbsp; Gradle &nbsp; / &nbsp; JUnit &nbsp; / &nbsp; GitHub Actions</sub>
+
+[**Try Green Chonk**](https://github.com/lzc-nus/ip/releases/latest) &nbsp; · &nbsp; [User guide](https://lzc-nus.github.io/ip/) &nbsp; · &nbsp; [Source code](https://github.com/lzc-nus/ip)
+
+<br>
+
+## How I approach the work
+
+**Make it understandable.** Clear responsibilities, focused commits, and
+documentation that helps the next person get started.
+
+**Make it dependable.** Validate inputs, test failure paths, and take extra
+care where user data is involved.
+
+**Keep improving it.** Use code review and automated checks to turn working
+software into something easier to maintain.
 
 ---
 
-## Selected projects
-
-### [Green Chonk](https://github.com/lzc-nus/ip)
-
-A desktop task companion with a JavaFX chat interface. Manage todos, deadlines,
-and events through keyboard commands, with search, date schedules, and editing.
-
-- Separate parsing, command, domain, UI, and storage responsibilities.
-- Validate input and preserve task data when saving fails.
-- Verify behavior with JUnit, Checkstyle, coverage gates, and CI on Windows,
-  macOS, and Linux.
-
-**Java · JavaFX · Gradle · JUnit · GitHub Actions**
-
-[User guide](https://lzc-nus.github.io/ip/) · [Download](https://github.com/lzc-nus/ip/releases/latest) · [Source](https://github.com/lzc-nus/ip)
-
-### [Plutus](https://github.com/lzc-nus/Plutus)
-
-A financial intelligence project by Two Sicilies, bringing together a Next.js
-frontend, a FastAPI backend, and PostgreSQL. The project explores wealth
-tracking, portfolio visibility, and transaction workflows.
-
-**TypeScript · React / Next.js · Python / FastAPI · PostgreSQL**
-
-[Project & technical overview](https://github.com/lzc-nus/Plutus#readme)
-
----
-
-## Engineering focus
-
-**Readable code.** Give classes clear responsibilities and make behavior easy
-to follow.
-
-**Reliable behavior.** Test failure paths as well as successful flows, especially
-where user data is involved.
-
-**Reviewable changes.** Keep commits focused, explain decisions, and use checks
-to catch regressions before release.
-
-**Useful documentation.** Help someone else run, understand, and use what I build.
-
-## Currently learning
-
-Software design, object-oriented programming, collaborative development, and
-the practical tradeoffs involved in building and maintaining software.
+[limzichao.com](https://www.limzichao.com/) &nbsp; · &nbsp; Building and learning at NUS.

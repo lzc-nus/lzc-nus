@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="150" viewBox="0 0 960 150" role="img" aria-labelledby="title desc">
+  <title id="title">Plutus</title>
+  <desc id="desc">Plutus project header in deep forest green with muted gold orbital geometry.</desc>
+  <rect width="960" height="150" fill="#193e34"/>
+  <text x="40" y="99" fill="#f4f1e8" font-family="Baskerville, 'Palatino Linotype', Georgia, serif" font-size="66" letter-spacing="-1">Plutus</text>
+  <g fill="none" stroke="#c5ac72" stroke-width="1.4">
+    <circle cx="844" cy="75" r="49"/>
+    <ellipse cx="844" cy="75" rx="78" ry="26" transform="rotate(-32 844 75)"/>
+    <path d="M844 26v98M795 75h98" stroke-opacity=".4"/>
+  </g>
+  <circle cx="903" cy="38" r="5" fill="#e2d0a0"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+  <title id="title">Lim Zi Chao</title>
+  <desc id="desc">Software, thoughtfully built. An ivory editorial masthead with forest-green lettering and a gold geometric motif.</desc>
+  <rect width="960" height="300" fill="#f4f1e8"/>
+  <path d="M0 299.5H960" stroke="#d4d9cf"/>
+  <g fill="none" stroke="#a58443" stroke-width="1.4">
+    <path d="M794 48v204M754 74h80v152h-80z"/>
+    <path d="m720 150 74-102 74 102-74 102z"/>
+    <circle cx="794" cy="150" r="72"/>
+  </g>
+  <circle cx="794" cy="150" r="6" fill="#234b40"/>
+  <text x="52" y="146" fill="#193e34" font-family="Baskerville, 'Palatino Linotype', Georgia, serif" font-size="86" letter-spacing="-2">Lim Zi Chao</text>
+  <text x="56" y="205" fill="#345549" font-family="Georgia, serif" font-size="30">Software, thoughtfully built.</text>
+</svg>

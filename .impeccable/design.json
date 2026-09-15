@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-15T00:00:00Z",
+  "title": "Design System: Lim Zi Chao GitHub Profile",
+  "extensions": {
+    "colorMeta": {
+      "forest": {
+        "role": "primary",
+        "displayName": "Forest",
+        "tonalRamp": ["oklch(15% 0.04 165)", "oklch(26% 0.04 165)", "oklch(38% 0.04 165)", "oklch(49% 0.04 165)", "oklch(61% 0.04 165)", "oklch(72% 0.04 165)", "oklch(84% 0.04 165)", "oklch(95% 0.04 165)"]
+      },
+      "ivory": {
+        "role": "neutral",
+        "displayName": "Ivory",
+        "tonalRamp": ["oklch(15% 0.014 88)", "oklch(26% 0.014 88)", "oklch(38% 0.014 88)", "oklch(49% 0.014 88)", "oklch(61% 0.014 88)", "oklch(72% 0.014 88)", "oklch(84% 0.014 88)", "oklch(95% 0.014 88)"]
+      }
+    }
+  },
+  "components": [
+    {
+      "name": "Project banner artwork",
+      "kind": "custom",
+      "description": "Actual Plutus SVG geometry; production README links the image with native GitHub styling. Tonal ramps above are tooling-only synthesized references, not shipping palette scales.",
+      "html": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"960\" height=\"150\" viewBox=\"0 0 960 150\" role=\"img\" aria-labelledby=\"ds-title ds-desc\"><title id=\"ds-title\">Plutus</title><desc id=\"ds-desc\">Plutus project header in deep forest green with muted gold orbital geometry.</desc><rect width=\"960\" height=\"150\" fill=\"#193e34\"/><text x=\"40\" y=\"99\" fill=\"#f4f1e8\" font-family=\"Baskerville, 'Palatino Linotype', Georgia, serif\" font-size=\"66\" letter-spacing=\"-1\">Plutus</text><g fill=\"none\" stroke=\"#c5ac72\" stroke-width=\"1.4\"><circle cx=\"844\" cy=\"75\" r=\"49\"/><ellipse cx=\"844\" cy=\"75\" rx=\"78\" ry=\"26\" transform=\"rotate(-32 844 75)\"/><path d=\"M844 26v98M795 75h98\" stroke-opacity=\".4\"/></g><circle cx=\"903\" cy=\"38\" r=\"5\" fill=\"#e2d0a0\"/></svg>",
+      "css": ""
+    }
+  ],
+  "narrative": {
+    "northStar": "The Editorial Portfolio",
+    "overview": "Restrained serif artwork gives the profile a recognizable identity; native GitHub text carries the evidence and actions. The visual system is static, flat, and deliberately small.",
+    "keyCharacteristics": ["Forest and ivory anchors with quiet geometric accents.", "Full-width artwork followed by readable native descriptions.", "Repository-hosted SVGs; no application CSS or JavaScript."],
+    "rules": [],
+    "dos": ["Do preserve full-width proportional SVG scaling and explicit serif fallbacks.", "Do pair visual project headers with native descriptions and meaningful links."],
+    "donts": ["Don't encode essential project evidence only inside artwork.", "Don't treat GitHub theme styling or the ignored local review preview as custom production CSS."]
+  }
+}
