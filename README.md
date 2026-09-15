@@ -61,6 +61,12 @@ documentation that helps the next person get started.
 **Make it dependable.** Validate inputs, test failure paths, and take extra
 care where user data is involved.
 
+**Keep it maintainable.** Favor cohesive modules, low coupling, and regression
+tests so fixes and refactoring remain straightforward.
+
+**Make it extensible.** Use clear interfaces and sensible boundaries so new
+features can fit naturally without unnecessary rewrites or premature complexity.
+
 **Keep improving it.** Use code review and automated checks to turn working
 software into something easier to maintain.
 
