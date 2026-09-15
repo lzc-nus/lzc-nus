@@ -23,7 +23,7 @@ readable design, reliable data handling, and tests that cover the details.
 
 [![Plutus](assets/plutus.svg)](https://github.com/lzc-nus/Plutus)
 
-**NUS Orbital · Apollo-level project** &nbsp; · &nbsp; Team Two Sicilies
+**NUS Orbital · Apollo-level project**
 
 A financial intelligence application bringing wealth tracking, portfolio
 visibility, and transaction workflows into one project. Built with a Next.js
